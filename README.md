@@ -126,7 +126,8 @@ In the Windhawk **Settings** tab for this mod, you can customize the following o
 
 ## 👤 Author & Credits
 
-* **Author:** AKS HAY
-* **GitHub:** [sysakshay](https://github.com/sysakshay)
-* **Twitter / X:** [@iamtouchingyou](https://twitter.com/iamtouchingyou)
-* **License:** [GPL-3.0](LICENSE)
+- **Original Author:** AKS HAY
+- **GitHub:** [sysakshay](https://github.com/sysakshay)
+- **Twitter / X:** [@iamtouchingyou](https://twitter.com/iamtouchingyou)
+- **Maintainer & Patched Fork:** LT ([ielti](https://github.com/ielti))
+- **License:** [GPL-3.0](LICENSE)
